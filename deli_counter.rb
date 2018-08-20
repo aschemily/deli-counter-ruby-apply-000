@@ -4,7 +4,8 @@ new_arr = []
 count = 0 
 
 if katz_deli == 0 
-return "The line is empty."
+puts "The line is empty."
+
 else 
 katz_deli.each do |name|
 
